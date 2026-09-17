@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.4",
+  "versao": "1.1.6",
   "url": "https://github.com/v4xplay/V4xTrade/releases/latest",
-  "notas": "Baixe o instalador e instale por cima."
+  "notas": "Correcao do aviso de atualizacao e instalador com escolha de pasta."
 }
